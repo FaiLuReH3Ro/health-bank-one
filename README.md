@@ -70,5 +70,5 @@ To solve the problem, my team decided to expand on the existing features of the 
 
 <h2>Prototype</h2>
 
-<a href="https://www.figma.com/proto/MgBaPCBHcjpSGGoBOg1Cfy?content-scaling=fixed&kind=proto&node-id=587-2978&page-id=46:74&scaling=scale-down&starting-point-node-id=587:2978">Prototype on Figma</a>
+<a href="https://www.figma.com/proto/MgBaPCBHcjpSGGoBOg1Cfy?content-scaling=fixed&kind=proto&node-id=587-2978&page-id=46:74&scaling=scale-down&starting-point-node-id=587:2978" target="_blank">Prototype on Figma</a>
 
