@@ -5,7 +5,7 @@
 <h2>Your Partner in Health</h2>
 
 <div align="center">
-  <img src="logo-1.png" width="400"/>
+  <img src="logo-1.png" width="400" alt = "Care Guide Logo 1"/>
   <p>Care Guide - Designed By Nidhi Lalwani</p>
 </div>
 
@@ -31,6 +31,12 @@
   <li><strong>Philip Nguyen - </strong>Researcher</li>
   <li><strong>Jasha Dela Cruz - </strong>Survey Researcher</li>
 </ul>
+
+<br />
+
+<img src="HealthBankOne.jpg" alt="Health Bank One logo"/>
+
+<br />
 
 <h2>Desgin Challenge</h2>
 
