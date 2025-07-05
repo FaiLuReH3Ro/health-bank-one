@@ -243,12 +243,12 @@
   </p>
 
   <div align="center">
-    <img src="./High-Res/MT-daily.png" >
-    <img src="./High-Res/MT-weekly.png" >
-    <img src="./High-Res/MT-Sunday.png" >
-    <img src="./High-Res/MT-Tuesday.png" >
-    <img src="./High-Res/MT-monthly.png" >
-    <img src="./High-Res/Medication List.png" >
+    <img src="./High-Res/MT-daily.png" width="400">
+    <img src="./High-Res/MT-weekly.png" width="400">
+    <img src="./High-Res/MT-Sunday.png" width="400">
+    <img src="./High-Res/MT-Tuesday.png" width="400">
+    <img src="./High-Res/MT-monthly.png" width="400">
+    <img src="./High-Res/Medication List.png" width="400">
   </div>
   
 </div>
