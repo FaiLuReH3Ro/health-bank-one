@@ -5,11 +5,9 @@
 <h2>Your Partner in Health</h2>
 
 <div align="center">
-  <img src="logo-1.png" width="400" alt = "Care Guide Logo 1"/>
+  <img src="./Care Guide/icon-1.png" width="400" alt = "Care Guide Logo 1"/>
   <p>Care Guide - Designed By Nidhi Lalwani</p>
 </div>
-
-
 
 <br />
 
@@ -55,3 +53,22 @@ When middle-aged women with chronic health conditions need to manage their medic
 <p>
 To solve the problem, my team decided to expand on the existing features of the Health Bank One app and add key features: Health Dashboard, Daily Health Log, Lab Reports, Trend Analysis, and Medication Tracker. The goal is to increase the functionality and practicality by giving users more reasons to use the app. Health Bank One would go from an app primarily for medical record consolidation to an all-purpose health app. 
 </p>
+
+<br />
+
+<h2>Survey Results</h2>
+
+<h2>Secondary Research</h2>
+
+<h2>Primary Research</h2>
+
+<h2>Branding</h2>
+
+<h2>Low-Fidelity Wireframing</h2>
+
+<h2>High-Fidelity Wireframing</h2>
+
+<h2>Prototype</h2>
+
+<a href="https://www.figma.com/proto/MgBaPCBHcjpSGGoBOg1Cfy?content-scaling=fixed&kind=proto&node-id=587-2978&page-id=46:74&scaling=scale-down&starting-point-node-id=587:2978">Prototype on Figma</a>
+
