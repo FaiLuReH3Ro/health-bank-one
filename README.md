@@ -11,6 +11,16 @@
 
 <br />
 
+<div align="center">
+  <img src="./High-Res/Home Screen.png" width="200" alt = "Home Screen"/>
+  <img src="./High-Res/Blood Pressure.png" width="200" alt = "Blood Pressure Trends" />
+  <img src="./High-Res/MT-weekly.png" width="200" alt = "Medication Tracker" />
+  <img src="./High-Res/Lab Results.png" width="200" alt = "Lab Results" />
+</div>
+
+<br />
+<br />
+
 <h2>Project Details</h2>
 
 <ul> 
