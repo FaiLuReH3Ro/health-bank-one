@@ -68,7 +68,69 @@ To solve the problem, my team decided to expand on the existing features of the 
 
 <h2>Survey Results</h2>
 
+<p>In the first sprint, our survey researchers from each team worked together to build a survey. Meanwhile, the rest of the class worked on the distribution strategy. My team planned to send the survey to friends, family, organizations, and relevant subreddits.</p>
+
+<h3>Takeaways</h3>
+
+<ul>
+  <li>36% of women with chronic conditions face technical difficulties managing their records.</li>
+  <li>58% of women with chronic conditions track their health daily, showing strong interest in digital health tools.</li>
+  <li>While 68% are satisfied with explanations from lab results, 29% only sometimes understand the results.</li>
+  <li>54% of participants rated a feature that can log health progress and conditions as most valuable</li>
+  <li>Participants want all records in one place, family access options, lab results trends, and integration with smartwatches and health devices.</li>
+</ul>
+
 <h2>Secondary Research</h2>
+
+<p>
+For the second sprint, our project manager and I worked together and found 12 articles for our secondary research. We decided that the survey researcher, the project manager, and I would each analyze and summarize 4 research articles. Meanwhile, the rest of our team will conduct competitive analysis by locating and analyzing 3 apps with similar features and functionality to Health Bank One.
+</p>
+
+<h3>Research Articles Key Points</h3>
+
+<ul>
+  <li>Valued features include easy navigation, peer support, accessible info, secure data, and practical tools.</li>
+  <li>Users found digital health tools eased condition management and boosted self-awareness, proactivity, and self-care confidence.</li>
+  <li>Engaging health apps provide personalized tracking, goals, reminders, and secure provider communication.</li>
+  <li>Symptom tracking, reminders, and gamification can boost long-term engagement.</li>
+  <li>AI-driven insights and seamless EHR integration can enhance health tracking.</li>
+</ul>
+
+<div align="center">
+  <img src = "./Research/Group 1.png" width="300" />
+  <img src = "./Research/Group 2.png" width="300" />
+  <img src = "./Research/Group 3.png" width="300" />
+</div>
+
+<h3>Competitive Analysis</h3>
+
+<h4>One Record</h4>
+
+<ul>
+  <li>Let users access, combine, and share their healthcare data across providers, payers, and pharmacies, creating a unified health history.</li>
+  <li>Patients fully control their medical records, securely sharing them with trusted individuals and organizations.</li>
+</ul>
+
+<h4>Medisafe</h4>
+
+<ul>
+  <li>Medication adherence via push notifications, premium features to boost user retention, and gamified health tracking to encourage overall wellness.</li>
+  <li>Provides drug interaction warning, caregiver reminders, and family scheduling and tracking.</li>
+</ul>
+
+<h4>Healow</h4>
+
+<ul>
+  <li>Offers medication reminders, activity tracking, and weight management to help users set and monitor health goals.</li>
+  <li>Integration with Apple Health, Fitbit, and other wearables for real-time health data syncing.</li>
+  <li>Simplifies appointment scheduling, telehealth, and prescription management in one platform.</li>
+</ul>
+
+<div align="center">
+  <img src="./Research/One Record.png" width="300" />
+  <img src="./Research/Medisafe.png" width="300" />
+  <img src="./Research/Healow.png" width="300" />
+</div>
 
 <h2>Primary Research</h2>
 
