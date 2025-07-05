@@ -4,6 +4,13 @@
 
 <h2>Your Partner in Health</h2>
 
+<div align="center">
+  <img src="logo-1.png" />
+  <p>Care Guide - Designed By Nidhi Lalwani</p>
+</div>
+
+
+
 <br />
 
 <h2>Project Details</h2>
