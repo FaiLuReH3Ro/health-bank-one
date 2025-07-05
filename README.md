@@ -97,9 +97,9 @@ For the second sprint, our project manager and I worked together and found 12 a
 </ul>
 
 <div align="center">
-  <img src = "./Research/Group 1.png" width="300" />
-  <img src = "./Research/Group 2.png" width="300" />
-  <img src = "./Research/Group 3.png" width="300" />
+  <img src = "./Research/Group 1.png" width="250" />
+  <img src = "./Research/Group 2.png" width="250" />
+  <img src = "./Research/Group 3.png" width="250" />
 </div>
 
 <h3>Competitive Analysis</h3>
@@ -127,9 +127,9 @@ For the second sprint, our project manager and I worked together and found 12 a
 </ul>
 
 <div align="center">
-  <img src="./Research/One Record.png" width="300" />
-  <img src="./Research/Medisafe.png" width="300" />
-  <img src="./Research/Healow.png" width="300" />
+  <img src="./Research/One Record.png" width="250" />
+  <img src="./Research/Medisafe.png" width="250" />
+  <img src="./Research/Healow.png" width="250" />
 </div>
 
 <h2>Primary Research</h2>
