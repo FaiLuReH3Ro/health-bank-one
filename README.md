@@ -5,7 +5,7 @@
 <h2>Your Partner in Health</h2>
 
 <div align="center">
-  <img src="logo-1.png" />
+  <img src="logo-1.png" width="400"/>
   <p>Care Guide - Designed By Nidhi Lalwani</p>
 </div>
 
