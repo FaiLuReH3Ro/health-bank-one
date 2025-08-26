@@ -213,7 +213,7 @@
 <img src="./Low-Res/User Flow.png"> 
 
 <div>
-  <h2>🖼️ High-Fidelity Wireframing</h2>
+  <h2>📱 High-Fidelity Wireframing</h2>
   
   <p>
     After receiving feedback from our milestone check-in, our team shifted to working on the high-fidelity wireframes with the feedback in mind. Our team decided to split into 3 mini-teams consisting of pairs. A pair would work together and focus on a different feature. Reina (Project Manager) and Anjali (Developer) worked on the onboarding screens. Nidhi (Designer) and Jasha (Survey Researcher) worked on the Lab Reports, Trend Analysis, and profiles. I (Researcher) and Steve (Designer) worked on the Medication Tracker. Nidhi, Jasha, Anjali, Reina, and I worked on the settings. Anjali also worked on the Daily Health Log and Health Dashboard.
@@ -254,7 +254,7 @@
 </div>
 
 <div>
-  <h2>🧩 Prototype</h2>
+  <h2>🚀 Prototype</h2>
   
   <p>We worked on the prototype after completing the high-fidelity wireframes. I worked on the prototype for the Medication Tracker and the Medication Reminders in the settings. </p>
   
