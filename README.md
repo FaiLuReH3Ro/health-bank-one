@@ -27,7 +27,7 @@
   <li><strong>Client - </strong>Health Bank One</li>
   <li><strong>Role - </strong>Researcher</li>
   <li><strong>Scope - </strong>3 months</li>
-  <li><strong>Tools - </strong>Figma</li>
+  <li><strong>Tools - </strong>Figma, Excel</li>
 </ul>
 
 <h2>👥 Team</h2>
@@ -69,19 +69,51 @@
 <br />
 
 <div>
-  <h2>📊 Survey Results</h2>
+  <h2>📊 Survey Takeaways</h2>
   
-  <p>In the first sprint, our survey researchers from each team worked together to build a survey. Meanwhile, the rest of the class worked on the distribution strategy. My team planned to send the survey to friends, family, organizations, and relevant subreddits.</p>
+  <p>In the first sprint, our survey researchers from each team collaborated to create a survey, while the rest of the class focused on developing a distribution strategy. My team planned to distribute the survey to friends, family, organizations, and relevant subreddits. After receiving over 90 responses in approximately two weeks, we closed the survey. The survey team exported the results to Google Forms and shared them with the class. I chose to analyze the data using Microsoft Excel. Although there were more than 90 responses, many respondents were male or under the age of 35. As a result, I needed to filter out the irrelevant data, leaving me with around 30 valid responses. I employed pivot tables and Power Query to organize the data and visualized the results using bar and pie charts. </p>
+
+  <div align = "center">
+
+  <br>
+  <img width="750" alt="Tracking Tools Graph" src="https://github.com/user-attachments/assets/e41ae0b7-27a1-4887-927f-71f0ae920dff" />
+  <img width="500"  alt="Health Tracking Graph" src="https://github.com/user-attachments/assets/c2b3a49c-af2e-4063-baee-929baf723a64" />
+  <img width="500"  alt="Barriers Graph" src="https://github.com/user-attachments/assets/1c3958df-be3b-45a3-aced-ce4f3f30b2bc" />
+
+ 
+  <div align = "left"> 
+    <br>
+    <ul>
+      <li>60% of women with chronic conditions monitor their health daily, and 64% use phone apps or smartwatches — highlighting strong interest in digital health tools</li>
+      <li>19% report technical difficulties when managing health records — the most frequent barrier identified</li>
+    </ul>
+    <br>
+  </div>
+ 
+  <img width="500" alt="Accessing Records" src="https://github.com/user-attachments/assets/0cb178d5-a860-4c11-96f7-c52332972098" />
+  <img width="500"  alt="Health Progess Log" src="https://github.com/user-attachments/assets/565aef85-8ca5-47d5-ab8d-45eb27b18102" />
+
+  <div align = "left"> 
+    <br>
+    <ul>
+      <li>56% find accessing their medical records difficult or confusing</li>
+      <li>69% rate a health progress tracking feature as very valuable (4–5 stars)</li>
+    </ul>
+    <br>
+  </div>
   
-  <h3>Takeaways</h3>
-  
-  <ul>
-    <li>36% of women with chronic conditions face technical difficulties managing their records.</li>
-    <li>58% of women with chronic conditions track their health daily, showing strong interest in digital health tools.</li>
-    <li>While 68% are satisfied with explanations from lab results, 29% only sometimes understand the results.</li>
-    <li>54% of participants rated a feature that can log health progress and conditions as most valuable</li>
-    <li>Participants want all records in one place, family access options, lab results trends, and integration with smartwatches and health devices.</li>
-  </ul>
+  <img width="500"  alt="Prescription Feature" src="https://github.com/user-attachments/assets/d66eccf3-4ad5-441e-a92c-4f157955c8bf" />
+  <img width="500" alt="Profile Feature" src="https://github.com/user-attachments/assets/92dfe351-e48e-4177-8f01-54941bfc8001" />
+
+  <div align = "left"> 
+    <br>
+    <ul>
+      <li>85% rate an appointment & medication prescription feature as very valuable (4–5 stars)</li>
+      <li>69% rate the ability to create personal profiles for storing critical medical information as very valuable (4–5 stars)</li>
+    </ul>
+  </div>
+
+  </div>
 </div>
 
 <div>
