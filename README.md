@@ -76,9 +76,9 @@
   <div align = "center">
 
   <br>
-  <img width="75%" alt="Tracking Tools Graph" src="https://github.com/user-attachments/assets/e41ae0b7-27a1-4887-927f-71f0ae920dff" />
-  <img width="49%"  alt="Health Tracking Graph" src="https://github.com/user-attachments/assets/c2b3a49c-af2e-4063-baee-929baf723a64" />
-  <img width="49%"  alt="Barriers Graph" src="https://github.com/user-attachments/assets/1c3958df-be3b-45a3-aced-ce4f3f30b2bc" />
+  <img width="750" alt="Tracking Tools Graph" src="https://github.com/user-attachments/assets/e41ae0b7-27a1-4887-927f-71f0ae920dff" />
+  <img width="750"  alt="Health Tracking Graph" src="https://github.com/user-attachments/assets/c2b3a49c-af2e-4063-baee-929baf723a64" />
+  <img width="750"  alt="Barriers Graph" src="https://github.com/user-attachments/assets/1c3958df-be3b-45a3-aced-ce4f3f30b2bc" />
 
  
   <div align = "left"> 
@@ -90,8 +90,8 @@
     <br>
   </div>
  
-  <img width="49%" alt="Accessing Records" src="https://github.com/user-attachments/assets/0cb178d5-a860-4c11-96f7-c52332972098" />
-  <img width="49%"  alt="Health Progess Log" src="https://github.com/user-attachments/assets/565aef85-8ca5-47d5-ab8d-45eb27b18102" />
+  <img width="750" alt="Accessing Records" src="https://github.com/user-attachments/assets/0cb178d5-a860-4c11-96f7-c52332972098" />
+  <img width="750"  alt="Health Progess Log" src="https://github.com/user-attachments/assets/565aef85-8ca5-47d5-ab8d-45eb27b18102" />
 
   <div align = "left"> 
     <br>
@@ -102,8 +102,8 @@
     <br>
   </div>
   
-  <img width="49%"  alt="Prescription Feature" src="https://github.com/user-attachments/assets/d66eccf3-4ad5-441e-a92c-4f157955c8bf" />
-  <img width="49%" alt="Profile Feature" src="https://github.com/user-attachments/assets/92dfe351-e48e-4177-8f01-54941bfc8001" />
+  <img width="750"  alt="Prescription Feature" src="https://github.com/user-attachments/assets/d66eccf3-4ad5-441e-a92c-4f157955c8bf" />
+  <img width="750" alt="Profile Feature" src="https://github.com/user-attachments/assets/92dfe351-e48e-4177-8f01-54941bfc8001" />
 
   <div align = "left"> 
     <br>
