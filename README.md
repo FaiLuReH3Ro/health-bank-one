@@ -49,9 +49,7 @@
 <div>
   <h2>🎯 Design Challenge</h2>
   
-  <p>
-  Health Bank One invited our Applied Experience Design class at UTD during the Spring 2025 semester to design concepts that boost user engagement and retention in its app. This challenge seeks features and designs that drive user value, repeat use, and long-term engagement. The target demographic is women aged 40-65 who either manage chronic conditions for themselves or their family members, and proactive, health-conscious women. Our class consisted of multiple teams, so half of the teams would focus on chronic conditions and the other half would focus on health and wellness. My team decided to focus on chronic conditions. The goal of the project is to understand user motivations and needs by conducting design research methods, design mobile app wireframes of proposed features, and developing a high-fidelity prototype showcasing the solutions. 
-  </p>
+Health Bank One invited our Applied Experience Design class at UTD during the Spring 2025 semester to design concepts that boost user engagement and retention in its app. This challenge seeks features and designs that drive user value, repeat use, and long-term engagement. The target demographic is women aged 40-65 who manage chronic conditions for themselves or their family members, and proactive, health-conscious women. Our class consisted of multiple teams, so half would focus on chronic conditions and the other half on health and wellness. My team decided to focus on chronic conditions. The project aims to understand user motivations and needs by conducting design research methods, designing mobile app wireframes of proposed features, and developing a high-fidelity prototype showcasing the solutions. 
   
   <h2>❓ The Problem</h2>
   
