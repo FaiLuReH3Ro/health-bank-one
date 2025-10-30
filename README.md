@@ -190,6 +190,7 @@ Health Bank One invited our Applied Experience Design class at UTD during the Sp
   <h3>Design Persona</h3>
   
   <img src="./Research/Design Persona.png">
+  <em>Designed by Nidhi Lalwani</em>
 </div>
 
 <div>
